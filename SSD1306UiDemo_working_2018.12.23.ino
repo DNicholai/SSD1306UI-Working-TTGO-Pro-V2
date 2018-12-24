@@ -1,5 +1,5 @@
 //  Working code based on SSD1306 Demo, but with minor tweaks necessary for TTGO ESP32 OLED Pro V2 board
-// 2018.12.24
+// 2018.12.24 later tested
 
 
 /**
